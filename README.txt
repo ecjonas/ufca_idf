@@ -27,9 +27,9 @@ What's Next:
     you make changes. This requires GNU make (gmake)
 
   * To install the PyFpdf library, follow the following steps:
-    1 - Run the command prompt (cmd) as administrator; 
-    2 - Follow go to the QGIS python37 folder using the cd 'C:Program FilesQGIS 3.10appsPython37';
-    3 - enter python code.exe -m pip install fpdf
+    1 - Run the OSGeo4W Shell as administrator; 
+    2 - Go to python39 folder and then QGIS Scripts using 'cd' command;
+    3 - enter code python.exe -m pip install fpdf
 
 For more information, see the PyQGIS Developer Cookbook at:
 http://www.qgis.org/pyqgis-cookbook/index.html
