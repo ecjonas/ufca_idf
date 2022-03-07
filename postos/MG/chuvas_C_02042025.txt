@@ -1,0 +1,14 @@
+UF,MG
+Cidade,MANHUACU
+Nome Posto,MANHUACU
+Latitude,-20.25
+Longitude,-42.05
+Codigo,2042025
+Qtd. Anos,6
+Ano,Maxima
+1976,46.8
+1977,68.9
+1978,68.6
+1979,51
+1981,63.2
+1982,50

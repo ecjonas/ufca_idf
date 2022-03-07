@@ -1,0 +1,13 @@
+UF,PA
+Cidade,PONTA DE PEDRAS
+Nome Posto,PONTA DE PEDRAS
+Latitude,-1.35
+Longitude,-48.78333333333333
+Codigo,148008
+Qtd. Anos,5
+Ano,Maxima
+1977,60.8
+1978,63.5
+1979,41.3
+1980,52.8
+1981,80.2

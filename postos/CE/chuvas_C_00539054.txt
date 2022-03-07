@@ -1,0 +1,17 @@
+UF,CE
+Cidade,BANABUIU
+Nome Posto,FINARE
+Latitude,-5.4
+Longitude,-39.019999999999996
+Codigo,539054
+Qtd. Anos,9
+Ano,Maxima
+2001,30
+2002,126
+2003,95
+2004,85
+2005,77
+2013,55
+2014,56
+2016,73
+2017,65

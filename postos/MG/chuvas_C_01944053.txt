@@ -1,0 +1,16 @@
+UF,MG
+Cidade,CONTAGEM
+Nome Posto,CONTAGEM
+Latitude,-19.9
+Longitude,-44.1
+Codigo,1944053
+Qtd. Anos,8
+Ano,Maxima
+1978,45.6
+1979,106.2
+1980,60.7
+1981,67.4
+1982,88.6
+1983,95
+1984,82
+1985,90

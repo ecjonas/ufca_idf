@@ -1,0 +1,15 @@
+UF,CE
+Cidade,TAUA
+Nome Posto,FAZENDA CORISCO
+Latitude,-6.233333333333333
+Longitude,-40.35
+Codigo,640040
+Qtd. Anos,7
+Ano,Maxima
+2009,85
+2010,48
+2015,27
+2016,101
+2018,77
+2019,61
+2020,41

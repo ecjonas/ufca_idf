@@ -1,0 +1,18 @@
+UF,CE
+Cidade,JAGUARETAMA
+Nome Posto,SITIO SAO PEDRO
+Latitude,-5.65
+Longitude,-38.9
+Codigo,538053
+Qtd. Anos,10
+Ano,Maxima
+2001,62
+2002,95
+2003,66
+2004,158
+2005,50
+2008,27
+2010,46
+2011,88
+2012,14
+2018,150

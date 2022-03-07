@@ -1,0 +1,13 @@
+UF,CE
+Cidade,MORADA NOVA
+Nome Posto,EIXAO 2
+Latitude,-4.965277777777778
+Longitude,-38.25
+Codigo,438120
+Qtd. Anos,5
+Ano,Maxima
+2012,60
+2013,28.4
+2018,73
+2019,46.2
+2020,48

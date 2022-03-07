@@ -1,0 +1,16 @@
+UF,PI
+Cidade,SIMPLICIO MENDES
+Nome Posto,MORRO DOS CAVALOS
+Latitude,-7.85
+Longitude,-41.9
+Codigo,741012
+Qtd. Anos,8
+Ano,Maxima
+1975,119
+1976,91.2
+1977,68
+1978,75.4
+1979,39.3
+1983,76
+1984,85.2
+1985,71.2

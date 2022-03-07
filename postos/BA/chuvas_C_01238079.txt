@@ -1,0 +1,14 @@
+UF,BA
+Cidade,SALVADOR
+Nome Posto,BALANCA DE PARIPE
+Latitude,-12.85
+Longitude,-38.45
+Codigo,1238079
+Qtd. Anos,6
+Ano,Maxima
+1965,38
+1966,84
+1967,89.3
+1968,95
+1969,108.2
+1970,99.4

@@ -1,0 +1,13 @@
+UF,CE
+Cidade,MASSAPE
+Nome Posto,ACUDE ACARAU MIRIM
+Latitude,-3.5
+Longitude,-40.31666666666667
+Codigo,340047
+Qtd. Anos,5
+Ano,Maxima
+1984,53.9
+1985,110.5
+1991,41.1
+1992,53.3
+1993,54.2

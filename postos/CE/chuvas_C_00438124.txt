@@ -1,0 +1,14 @@
+UF,CE
+Cidade,BEBERIBE
+Nome Posto,URUAU CARRAPICHO
+Latitude,-4.226111111111111
+Longitude,-38.09
+Codigo,438124
+Qtd. Anos,6
+Ano,Maxima
+2015,69
+2016,45
+2017,75
+2018,95
+2019,96
+2020,120

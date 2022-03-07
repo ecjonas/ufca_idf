@@ -1,0 +1,14 @@
+UF,CE
+Cidade,MOMBACA
+Nome Posto,MANOEL CORREIA
+Latitude,-5.666666666666667
+Longitude,-39.95
+Codigo,539059
+Qtd. Anos,6
+Ano,Maxima
+2001,50
+2002,41
+2003,88
+2004,86
+2005,80
+2006,40

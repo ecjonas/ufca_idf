@@ -1,0 +1,13 @@
+UF,CE
+Cidade,CARIDADE
+Nome Posto,FAZENDA ALTO VERMELHO
+Latitude,-4.133333333333334
+Longitude,-39.15
+Codigo,439053
+Qtd. Anos,5
+Ano,Maxima
+2001,93
+2002,80
+2003,59.5
+2004,58
+2005,54.5

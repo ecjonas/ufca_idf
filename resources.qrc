@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/plugins/UFCA_IDF">
+    <file>imagens/sqto.PNG</file>
+    <file>imagens/dqm.PNG</file>
+    <file>imagens/dqr.PNG</file>
+    <file>imagens/i.PNG</file>
+    <file>imagens/r.PNG</file>
+    <file>imagens/sqr.PNG</file>
+    <file>imagens/dpma.PNG</file>
+    <file>imagens/b.PNG</file>
+    <file>imagens/icon.png</file>
+  </qresource>
+</RCC>

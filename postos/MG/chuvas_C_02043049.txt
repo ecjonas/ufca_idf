@@ -1,0 +1,14 @@
+UF,MG
+Cidade,OURO PRETO
+Nome Posto,OURO PRETO
+Latitude,-20.383333333333333
+Longitude,-43.5
+Codigo,2043049
+Qtd. Anos,6
+Ano,Maxima
+1975,37.5
+1976,69.1
+1977,75
+1978,92.2
+1981,14
+1982,23.4

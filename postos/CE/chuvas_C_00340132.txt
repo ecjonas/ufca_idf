@@ -1,0 +1,13 @@
+UF,CE
+Cidade,COREAU
+Nome Posto,FAZENDA BOM PASTOR
+Latitude,-3.5275
+Longitude,-40.7075
+Codigo,340132
+Qtd. Anos,5
+Ano,Maxima
+2016,56
+2017,164
+2018,42
+2019,86
+2020,60

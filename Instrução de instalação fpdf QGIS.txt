@@ -1,0 +1,11 @@
+
+
+Para instalar a biblioteca PyFpdf, siga os seguites passos:
+
+1 - Execute o prompt de comando (cmd) como administrador
+
+2 - Siga vá na pasta python37 do QGIS usando o cd 'C:\Program Files\QGIS 3.10\apps\Python37'
+
+3 - digite o código python.exe -m pip install fpdf
+
+

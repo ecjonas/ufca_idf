@@ -1,0 +1,14 @@
+UF,CE
+Cidade,PENTECOSTE
+Nome Posto,MARACAJA
+Latitude,-3.76
+Longitude,-39.080000000000005
+Codigo,339067
+Qtd. Anos,6
+Ano,Maxima
+2000,11
+2001,64.2
+2002,26
+2003,23
+2004,22
+2005,6

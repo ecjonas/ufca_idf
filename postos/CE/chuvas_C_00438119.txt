@@ -1,0 +1,13 @@
+UF,CE
+Cidade,ARACOIABA
+Nome Posto,IDEAL-3
+Latitude,-4.316666666666666
+Longitude,-38.68333333333333
+Codigo,438119
+Qtd. Anos,5
+Ano,Maxima
+2000,51.9
+2001,22
+2002,54
+2003,60
+2004,80

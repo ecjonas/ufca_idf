@@ -1,0 +1,15 @@
+UF,CE
+Cidade,ARACATI
+Nome Posto,SANTA TEREZA
+Latitude,-4.6
+Longitude,-37.86666666666667
+Codigo,437015
+Qtd. Anos,7
+Ano,Maxima
+2000,9.4
+2001,39
+2002,102
+2003,75
+2004,197
+2008,0.1
+2009,114

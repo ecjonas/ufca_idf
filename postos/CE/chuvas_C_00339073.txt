@@ -1,0 +1,14 @@
+UF,CE
+Cidade,TRAIRI
+Nome Posto,TAMANDUA
+Latitude,-3.3166666666666664
+Longitude,-39.4
+Codigo,339073
+Qtd. Anos,6
+Ano,Maxima
+2000,45
+2001,92
+2002,108
+2003,119
+2004,78
+2011,150

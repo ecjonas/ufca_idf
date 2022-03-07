@@ -1,0 +1,14 @@
+UF,CE
+Cidade,JUCAS
+Nome Posto,MEL
+Latitude,-6.383333333333334
+Longitude,-39.583333333333336
+Codigo,639062
+Qtd. Anos,6
+Ano,Maxima
+2000,42.2
+2001,75
+2002,70.8
+2003,72
+2004,146
+2005,74

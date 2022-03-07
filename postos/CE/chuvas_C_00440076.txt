@@ -1,0 +1,14 @@
+UF,CE
+Cidade,TAMBORIL
+Nome Posto,SAO MANOEL
+Latitude,-4.87
+Longitude,-40.18
+Codigo,440076
+Qtd. Anos,6
+Ano,Maxima
+2002,46
+2003,38
+2004,67
+2005,98
+2006,41
+2007,44

@@ -1,0 +1,16 @@
+UF,CE
+Cidade,CANINDE
+Nome Posto,BONITO
+Latitude,-4.6
+Longitude,-39.46666666666667
+Codigo,439048
+Qtd. Anos,8
+Ano,Maxima
+2000,45
+2001,100
+2002,75
+2003,80
+2004,50
+2005,12.4
+2011,123
+2013,35
